@@ -2,6 +2,7 @@
 ## WEBSITES FOR LATEST MOVIES
 
 ### https://flixbaba.com/
+### https://www.boredflix.com/
 ### https://hdhub4u.boats/
 ### https://alphatron.tv/ (Not working)
 ### https://www.fmovies.hn/ (Not working anymore)
